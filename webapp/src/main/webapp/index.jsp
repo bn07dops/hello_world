@@ -2,4 +2,4 @@
 <!-- <h2> Deploying on a kubernetes using ansible for Self Teaching </h2> -->
 <h2> Deploying on a VM </h2>
 
-<!-- <h2> Glad to be here </h2> -->
+<h2> Glad to be here </h2>
